@@ -9,7 +9,7 @@
   --article-bg-color: #ff8dcb;
   --link-shadow-color: #ff8dcb;
   --bg-image: url("../images/cover-image-light.png");
-  --visible: hidden; /* Скрываем надпись REC */
+  --visible: hidden; /* для надписи REC */
   --shadow-color: #ff8dcb;
 }
 

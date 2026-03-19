@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const chosenTheme = [...button.classList]
         .find((cn) => cn.includes('_type_'))
         .split('_type_')[1];
+      
       setTheme(chosenTheme);
       setActiveButton(themeButtons, chosenTheme);
     });
