@@ -263,8 +263,8 @@
   }
 
   .title-decor {
-  color: var(--article-header-color);
-  background-color: var(--article-bg-color);
+  color: var(--article-bg-color);
+  background-color: var(--article-header-color);
   }
 
   .article__images-image:first-child {
