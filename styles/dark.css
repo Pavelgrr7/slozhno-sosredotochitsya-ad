@@ -12,10 +12,3 @@
   --visible: visible;
   --shadow-color: #ff0070;
 }
-
-@media (width >= 768px) {
-  .title-decor {
-    color: var(--article-bg-color);
-    background-color: var(--article-header-color);
-  }
-}
